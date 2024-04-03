@@ -16,7 +16,7 @@ Project is created with:
 * CSS3
 
 ## Setup
-You can see this project on-line using link: https://szymonsauer.github.io/pizzeria/.
+You can see this project on-line using link: https://szymonsauer.github.io/transforfm-and-transition-task/.
 To run this project locally download the code and run in the Visual Studio Code program. 
 
 ## Status
